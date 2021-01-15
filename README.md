@@ -1,6 +1,6 @@
 # ArrayLeaders
 
-Kata Solution 7kyu Array Leaders
+Kata Solution 7kyu Array Leaders.
 
 Given an array/list [] of integers. Find all the LEADERS in the array.
 
